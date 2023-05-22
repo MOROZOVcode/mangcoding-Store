@@ -1,1 +1,516 @@
-body{font-family:'Poppins';font-weight:400;margin:0}a{text-decoration:none}a,.btn,.card__title,.attainment__subtitle,.other-courses__best,.other-courses__price,.logo__name_footer{color:#fff}.container,.wrapper,.block,.logo,.text-block,.column,.nav,.header__btn,.main-list__add-block,.main-list__play-video,.advantage__cards,.advantage__card,.card__icon,.attainment__add-block,.counter,.other-courses__top_content,.other-courses__card-img,.other-courses__best,.other-courses__card-text,.other-courses__card-fullness,.feedback__cards,.feedback__card-contents,.feedback__account,.feedback__name-and-client,.feedback__text,.footer__block-right{display:flex}.container,.advantage__card,.card__icon,.other-courses__best,.other-courses__left-block{justify-content:center}.container,.wrapper,.logo,.header__btn,.main-list__add-block,.main-list__play-video,.card__icon,.other-courses__best{align-items:center}.wrapper,.block,.logo,.column,.header__btn,.main-list__play-video,.attainment__add-block,.counter,.other-courses__top_content,.other-courses__card-text,.feedback__cards,.feedback__card-contents,.feedback__name-and-client,.footer__wrapper{justify-content:space-between}.wrapper{width:1140px}.block,.counter,.feedback__card-contents,.feedback__name-and-client{flex-flow:column}.logo{width:160px;height:34px}.btn{width:170px;border:1px solid #545BE8;background-color:#545BE8}.btn,.card__icon{height:48px}.btn,.advantage__card{border-radius:10px}.btn,.title,#play,.card__title,.counter{font-family:'Inter'}.btn,.subtitle,#play,.card__title,.counter__quantity,.other-courses__best,.other-courses__price,.other-courses__card-title,.feedback__name,.logo__name_footer,.footer__link_head,.main-list__title_weight,.nav__link_active{font-weight:700}.btn,.title,.text,#play,.card__title,.counter__what,.feedback__name,.feedback__text,.footer__link_head{font-size:18px}.btn,.advantage__scroll{cursor:pointer}.text-block,.column,.advantage__card,.other-courses__wrapper{flex-direction:column}.text-block,.footer__wrapper{align-items:flex-start}.title{text-transform:uppercase}.title,.logo__name,.btn_login,.main-list__title,.main-list__subtitle_clr-purple,.other-courses__card-Views{color:#545BE8}.subtitle,.feedback__title{font-size:40px}.subtitle{margin-top:16px}.subtitle,.card__title{margin-bottom:16px}.subtitle,#play,.other-courses__card-title{color:#141E32}.text{color:#969696}.other-courses__card-fullness{color:#969696;font-size:16.2527px;margin-top:6.7px}.header__container,.card__icon{background:#fff}.header__container{height:80px;box-shadow:0 4px 20px rgba(0,0,0,0.1)}.header__container,.feedback__card,.other-courses__card-cover,.advantage__wrapper{position:relative}.logo__name{font-family:'Roboto'}.logo__name,.card__subtitle,.feedback__client,.logo__name_footer,.footer_text,.footer__link{font-size:14px}.nav{height:24px;margin-left:66px}.nav__link{font-size:16px;color:#101928}.nav__link,.advantage__card,.other-courses__column-left{margin-right:40px}.header__btn{width:364px}.advantage__text-block{width:364px;height:362px}.btn_login{background-color:transparent}.main-list__container{background:#F5F5F5;height:705px}.main-list__block_presentation{height:492px}.main-list__title{text-transform:none}.main-list__subtitle{font-size:64px;margin-bottom:24px}.footer__link_head{margin-bottom:24px}.main-list__add-block{justify-content:left}.main-list__play-video{margin-left:42px;width:133px}.advantage__block_scroll,.other-courses__best,.other-courses__price,.feedback__angle{position:absolute}.advantage__block_scroll{top:401px;align-self:flex-end}.advantage__block_scroll,.other-courses__price,.feedback__angle{right:0}.advantage__block_scroll,.advantage__cards,.other-courses__block-cards,.footer__block-right{flex-direction:row}.other-courses__img-shadow{align-self:flex-end;height:66.67px;background:linear-gradient(180deg,rgba(0,0,0,0)0%,#000 100%)}.advantage__container{height:522px;overflow:hidden}.advantage__block_cards{margin-top:111px;margin-bottom:144px}.advantage__cards{margin-left:24px}.advantage__card{width:267px;height:267px;background:#545BE8}.other-courses__best{background:#545BE8;left:0;top:21.6px;width:123.5px;height:43px;font-size:16.2527px;line-height:24px}.card__item{width:227px;height:186px;margin-left:16px}.feedback__name-and-client{margin-left:16px}.card__icon{width:48px}.card__icon,.advantage__scroll{border-radius:50%}.card__title{line-height:30px;margin-top:8px}.feedback__text-content{line-height:30px;margin-left:7px}.card__subtitle{color:#ddd}.counter__what{color:#ddd}.advantage__scroll{width:40px;height:40px;background:#F0C932}.advantage__scroll-left{margin-right:24px}.attainment__container{height:643px;background:linear-gradient(180deg,#545BE8 0,#272DB0 100%)}.other-courses__wrapper{flex-wrap:wrap;align-content:space-around}.attainment__text-block{height:352px;margin:121px 0 170px 125px}.attainment__title{color:#F0C932}.counter__quantity{color:#F0C932;font-size:24px}.attainment__add-block{margin-top:40px}.counter,.feedback__title,.logo__name_footer{text-align:center}.counter{height:57px}.counter:nth-child(2){margin-left:109px;margin-right:91px}.other-courses__top_content{align-content:flex-start;margin-top:80px}.other-courses__block-cards{height:733px}.other-courses__card{border-radius:5px;height:345px;box-shadow:0 18.0585px 18.0585px rgba(0,0,0,0.05)}.other-courses__card,.other-courses__card-img,.other-courses__img-shadow{width:328px}.other-courses__card-img{height:240.5px}.other-courses__card-img_one{background-image:url(resources/img/Notebook.png)}.other-courses__card-img_two{background-image:url(resources/img/JavaScript.png)}.other-courses__card-img_three{background-image:url(resources/img/Photographer.png)}.other-courses__card-img_four{background-image:url(resources/img/Desain.png)}.footer_text{line-height:24px;width:424px;color:#F4F4F4;margin:24px 1px 40px 0}.other-courses__price{bottom:14px;padding-right:14px;font-size:21.6702px}.other-courses__card-title{font-size:21.6702px}.other-courses__card-text{height:104.52px}.other-courses__left-block{margin-left:14.5px}.other-courses__card-teacher{margin-left:14.3px}.other-courses__card-Views{font-size:12.641px;margin-top:26px;margin-right:13.8px}.other-courses__block_text-block{margin-left:80px}.other-courses__btn{margin-top:24px}.other-courses__bottom_content{width:1200px;height:360px;margin:80px auto}.feedback__title{font-family:'Mada';color:#0D1222;margin-bottom:40px}.feedback__card{width:588px;height:268px;box-shadow:0 20px 20px rgba(0,0,0,0.1)}.feedback__card-contents{height:188px;margin:40px}.feedback__name{color:#000}.feedback__client{color:#646464}.feedback__text{color:#646464;height:60px}.footer__container{height:400px;background:#393E46}.footer__wrapper{flex-flow:row}.footer__block-left{margin-left:-39px;margin-top:-10px}.logo__name_footer{line-height:16px}.footer_social-icon{box-sizing:border-box;width:32px;height:32px;border:1px solid #fff;margin-right:16px}.footer_social{justify-content:flex-start;width:auto}.footer__nav:nth-last-child(2){margin-right:70px}.footer__nav{margin-right:80px;margin-left:0}ul{padding:0}.footer__link{list-style-type:none;margin-bottom:11px}.footer__nav:last-child{margin-right:0}.nav__link:nth-child(5){margin-right:0}.feedback__angle{width:0;height:0;border-top:78px solid #F4F4F4;border-left:78px solid transparent}
+body {
+	font-family: 'Poppins';
+	font-weight: 400;
+	margin: 0
+}
+
+a {
+	text-decoration: none
+}
+
+a, .btn, .card__title, .attainment__subtitle, .other-courses__best, .other-courses__price, .logo__name_footer {
+	color: #fff
+}
+
+.container, .wrapper, .block, .logo, .text-block, .column, .nav, .header__btn, .main-list__add-block, .main-list__play-video, .advantage__cards, .advantage__card, .card__icon, .attainment__add-block, .counter, .other-courses__top_content, .other-courses__card-img, .other-courses__best, .other-courses__card-text, .other-courses__card-fullness, .feedback__cards, .feedback__card-contents, .feedback__account, .feedback__name-and-client, .feedback__text, .footer__block-right {
+	display: flex
+}
+
+.container, .advantage__card, .card__icon, .other-courses__best, .other-courses__left-block {
+	justify-content: center
+}
+
+.container, .wrapper, .logo, .header__btn, .main-list__add-block, .main-list__play-video, .card__icon, .other-courses__best {
+	align-items: center
+}
+
+.wrapper, .block, .logo, .column, .header__btn, .main-list__play-video, .attainment__add-block, .counter, .other-courses__top_content, .other-courses__card-text, .feedback__cards, .feedback__card-contents, .feedback__name-and-client, .footer__wrapper {
+	justify-content: space-between
+}
+
+.wrapper {
+	width: 1140px
+}
+
+.block, .counter, .feedback__card-contents, .feedback__name-and-client {
+	flex-flow: column
+}
+
+.logo {
+	width: 160px;
+	height: 34px
+}
+
+.btn {
+	width: 170px;
+	border: 1px solid #545BE8;
+	background-color: #545BE8
+}
+
+.btn, .card__icon {
+	height: 48px
+}
+
+.btn, .advantage__card {
+	border-radius: 10px
+}
+
+.btn, .title, #play, .card__title, .counter {
+	font-family: 'Inter'
+}
+
+.btn, .subtitle, #play, .card__title, .counter__quantity, .other-courses__best, .other-courses__price, .other-courses__card-title, .feedback__name, .logo__name_footer, .footer__link_head, .main-list__title_weight, .nav__link_active {
+	font-weight: 700
+}
+
+.btn, .title, .text, #play, .card__title, .counter__what, .feedback__name, .feedback__text, .footer__link_head {
+	font-size: 18px
+}
+
+.btn, .advantage__scroll {
+	cursor: pointer
+}
+
+.text-block, .column, .advantage__card, .other-courses__wrapper {
+	flex-direction: column
+}
+
+.text-block, .footer__wrapper {
+	align-items: flex-start
+}
+
+.title {
+	text-transform: uppercase
+}
+
+.title, .logo__name, .btn_login, .main-list__title, .main-list__subtitle_clr-purple, .other-courses__card-Views {
+	color: #545BE8
+}
+
+.subtitle, .feedback__title {
+	font-size: 40px
+}
+
+.subtitle {
+	margin-top: 16px
+}
+
+.subtitle, .card__title {
+	margin-bottom: 16px
+}
+
+.subtitle, #play, .other-courses__card-title {
+	color: #141E32
+}
+
+.text {
+	color: #969696
+}
+
+.other-courses__card-fullness {
+	color: #969696;
+	font-size: 16.2527px;
+	margin-top: 6.7px
+}
+
+.header__container, .card__icon {
+	background: #fff
+}
+
+.header__container {
+	height: 80px;
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1)
+}
+
+.header__container, .feedback__card, .other-courses__card-cover, .advantage__wrapper {
+	position: relative
+}
+
+.logo__name {
+	font-family: 'Roboto'
+}
+
+.logo__name, .card__subtitle, .feedback__client, .logo__name_footer, .footer_text, .footer__link {
+	font-size: 14px
+}
+
+.nav {
+	height: 24px;
+	margin-left: 66px
+}
+
+.nav__link {
+	font-size: 16px;
+	color: #101928
+}
+
+.nav__link, .advantage__card, .other-courses__column-left {
+	margin-right: 40px
+}
+
+.header__btn {
+	width: 364px
+}
+
+.advantage__text-block {
+	width: 364px;
+	height: 362px
+}
+
+.btn_login {
+	background-color: transparent
+}
+
+.main-list__container {
+	background: #F5F5F5;
+	height: 705px
+}
+
+.main-list__block_presentation {
+	height: 492px
+}
+
+.main-list__title {
+	text-transform: none
+}
+
+.main-list__subtitle {
+	font-size: 64px;
+	margin-bottom: 24px
+}
+
+.footer__link_head {
+	margin-bottom: 24px
+}
+
+.main-list__add-block {
+	justify-content: left
+}
+
+.main-list__play-video {
+	margin-left: 42px;
+	width: 133px
+}
+
+.advantage__block_scroll, .other-courses__best, .other-courses__price, .feedback__angle {
+	position: absolute
+}
+
+.advantage__block_scroll {
+	top: 401px;
+	align-self: flex-end
+}
+
+.advantage__block_scroll, .other-courses__price, .feedback__angle {
+	right: 0
+}
+
+.advantage__block_scroll, .advantage__cards, .other-courses__block-cards, .footer__block-right {
+	flex-direction: row
+}
+
+.other-courses__img-shadow {
+	align-self: flex-end;
+	height: 66.67px;
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0)0%, #000 100%)
+}
+
+.advantage__container {
+	height: 522px;
+	overflow: hidden
+}
+
+.advantage__block_cards {
+	margin-top: 111px;
+	margin-bottom: 144px
+}
+
+.advantage__cards {
+	margin-left: 24px
+}
+
+.advantage__card {
+	width: 267px;
+	height: 267px;
+	background: #545BE8
+}
+
+.other-courses__best {
+	background: #545BE8;
+	left: 0;
+	top: 21.6px;
+	width: 123.5px;
+	height: 43px;
+	font-size: 16.2527px;
+	line-height: 24px
+}
+
+.card__item {
+	width: 227px;
+	height: 186px;
+	margin-left: 16px
+}
+
+.feedback__name-and-client {
+	margin-left: 16px
+}
+
+.card__icon {
+	width: 48px
+}
+
+.card__icon, .advantage__scroll {
+	border-radius: 50%
+}
+
+.card__title {
+	line-height: 30px;
+	margin-top: 8px
+}
+
+.feedback__text-content {
+	line-height: 30px;
+	margin-left: 7px
+}
+
+.card__subtitle {
+	color: #ddd
+}
+
+.counter__what {
+	color: #ddd
+}
+
+.advantage__scroll {
+	width: 40px;
+	height: 40px;
+	background: #F0C932
+}
+
+.advantage__scroll-left {
+	margin-right: 24px
+}
+
+.attainment__container {
+	height: 643px;
+	background: linear-gradient(180deg, #545BE8 0, #272DB0 100%)
+}
+
+.other-courses__wrapper {
+	flex-wrap: wrap;
+	align-content: space-around
+}
+
+.attainment__text-block {
+	height: 352px;
+	margin: 121px 0 170px 125px
+}
+
+.attainment__title {
+	color: #F0C932
+}
+
+.counter__quantity {
+	color: #F0C932;
+	font-size: 24px
+}
+
+.attainment__add-block {
+	margin-top: 40px
+}
+
+.counter, .feedback__title, .logo__name_footer {
+	text-align: center
+}
+
+.counter {
+	height: 57px
+}
+
+.counter:nth-child(2) {
+	margin-left: 109px;
+	margin-right: 91px
+}
+
+.other-courses__top_content {
+	align-content: flex-start;
+	margin-top: 80px
+}
+
+.other-courses__block-cards {
+	height: 733px
+}
+
+.other-courses__card {
+	border-radius: 5px;
+	height: 345px;
+	box-shadow: 0 18.0585px 18.0585px rgba(0, 0, 0, 0.05)
+}
+
+.other-courses__card, .other-courses__card-img, .other-courses__img-shadow {
+	width: 328px
+}
+
+.other-courses__card-img {
+	height: 240.5px
+}
+
+.other-courses__card-img_one {
+	background-image: url(resources/img/Notebook.png)
+}
+
+.other-courses__card-img_two {
+	background-image: url(resources/img/JavaScript.png)
+}
+
+.other-courses__card-img_three {
+	background-image: url(resources/img/Photographer.png)
+}
+
+.other-courses__card-img_four {
+	background-image: url(resources/img/Desain.png)
+}
+
+.footer_text {
+	line-height: 24px;
+	width: 424px;
+	color: #F4F4F4;
+	margin: 24px 1px 40px 0
+}
+
+.other-courses__price {
+	bottom: 14px;
+	padding-right: 14px;
+	font-size: 21.6702px
+}
+
+.other-courses__card-title {
+	font-size: 21.6702px
+}
+
+.other-courses__card-text {
+	height: 104.52px
+}
+
+.other-courses__left-block {
+	margin-left: 14.5px;
+	justify-content: space-evenly;
+}
+
+.other-courses__card-teacher {
+	margin-left: 14.3px
+}
+
+.other-courses__card-Views {
+	font-size: 12.641px;
+	margin-top: 26px;
+	margin-right: 13.8px
+}
+
+.other-courses__block_text-block {
+	margin-left: 80px
+}
+
+.other-courses__btn {
+	margin-top: 24px
+}
+
+.other-courses__bottom_content {
+	width: 1200px;
+	height: 360px;
+	margin: 80px auto
+}
+
+.feedback__title {
+	font-family: 'Mada';
+	color: #0D1222;
+	margin-bottom: 40px
+}
+
+.feedback__card {
+	width: 588px;
+	height: 268px;
+	box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1)
+}
+
+.feedback__card-contents {
+	height: 188px;
+	margin: 40px
+}
+
+.feedback__name {
+	color: #000
+}
+
+.feedback__client {
+	color: #646464
+}
+
+.feedback__text {
+	color: #646464;
+	height: 60px
+}
+
+.footer__container {
+	height: 400px;
+	background: #393E46
+}
+
+.footer__wrapper {
+	flex-flow: row
+}
+
+.footer__block-left {
+	margin-left: -39px;
+	margin-top: -10px
+}
+
+.logo__name_footer {
+	line-height: 16px
+}
+
+.footer_social-icon {
+	box-sizing: border-box;
+	width: 32px;
+	height: 32px;
+	border: 1px solid #fff;
+	margin-right: 16px
+}
+
+.footer_social {
+	justify-content: flex-start;
+	width: auto
+}
+
+.footer__nav:nth-last-child(2) {
+	margin-right: 70px
+}
+
+.footer__nav {
+	margin-right: 80px;
+	margin-left: 0
+}
+
+ul {
+	padding: 0
+}
+
+.footer__link {
+	list-style-type: none;
+	margin-bottom: 11px
+}
+
+.footer__nav:last-child {
+	margin-right: 0
+}
+
+.nav__link:nth-child(5) {
+	margin-right: 0
+}
+
+.feedback__angle {
+	width: 0;
+	height: 0;
+	border-top: 78px solid #F4F4F4;
+	border-left: 78px solid transparent
+}
