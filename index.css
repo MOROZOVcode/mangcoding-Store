@@ -310,6 +310,10 @@ a, .btn, .card__title, .attainment__subtitle, .other-courses__best, .other-cours
 	color: #F0C932
 }
 
+.attainment__subtitle {
+	color: #dddddd;
+}
+
 .counter__quantity {
 	color: #F0C932;
 	font-size: 24px
