@@ -20,11 +20,13 @@
 
 > Открыть сайт можно по ссылке: [morozovcode.github.io/mangcoding-Store](https://morozovcode.github.io/mangcoding-Store/)
 
-> Запуск проекта:
+- **Установить проект к себе можно следующим образом**:
+
+В терминале вводим следующие команды:
 
 ```
 $ git clone https://github.com/MOROZOVcode/mangcoding-Store.git
 $ cd mangcoding-Store
-
-Продолжать работу в IDE
 ```
+
+Чтобы открыть сайт в режиме разработки, можно вослользоваться плагином «[Live Server](https://visualstudiocode1.ru/ustanovka-i-nastrojka-liveserver-v-vs-code.html)» для вашей IDE или открыть в браузере файл `index.html`(который находится в корне проекта).
