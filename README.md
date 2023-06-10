@@ -1,6 +1,8 @@
 ### Проект Mangcoding-Store - это сайт для образовательной платформы с онлайн курсами.
 
-Это мой первый сайт который был свёрстан мною по макету c Figma ([ссылка на макет](<https://www.figma.com/proto/vdXfJlbtfATriDfYviLHwB/Course-Simple-landing-page-(Community)?node-id=5-2>)). Разрабатывая этот проект, я получил свой первый опыт в профессиональной вёрстке.
+Это мой первый сайт который был свёрстан по [макету c Figma](<https://www.figma.com/proto/vdXfJlbtfATriDfYviLHwB/Course-Simple-landing-page-(Community)?node-id=5-2>). Чтобы получить максимально пожую на макет вёрстку, я использовал браузерное расширение «[Pixel Perfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)».
+
+Разрабатывая этот проект, я получил свой первый опыт в профессиональной вёрстке.
 
 Скриншоты элементов интерфейса сайта:
 
